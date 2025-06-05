@@ -15,19 +15,19 @@
 
 ## 📊 GitHub Stats
 
-![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brianwanjiru&show_icons=true&theme=radical&hide=prs,issues)
+![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Britronic&show_icons=true&theme=radical&hide=prs,issues)
 
 ---
 
 ## 📈 Recent Activity
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=brianwanjiru&theme=react-dark&area=true)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Britronic&theme=react-dark&area=true)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brianwanjiru&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Britronic&theme=dark)
 
 ---
 
